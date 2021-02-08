@@ -1,1 +1,2 @@
-This test file.It is important file
+This test file. Used to practise the git commands
+
